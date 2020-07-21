@@ -23,7 +23,6 @@ namespace LibraryApi.Domain
                 new Book {  Id =2, Title="Nature", Author="Emerson", Genre="Non-Fiction", InStock=true, NumberOfPages = 328}
 
                 );
-
         }
     }
 }
